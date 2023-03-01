@@ -1,0 +1,11 @@
+{
+  "name": "tiny-lfu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "David Na",
+  "license": "MIT"
+}
